@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MondrianGenerator</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="boz_three">Box Three</string>
+    <string name="box_four">Box Four</string>
+    <string name="box_five">Box Five</string>
+    <string name="button_amber">AMBER</string>
+    <string name="button_green">GREEN</string>
+    <string name="button_red">RED</string>
+    <string name="how_to_play">How to play</string>
+    <string name="tap_boxes">Tap the buttons</string>
+</resources>
